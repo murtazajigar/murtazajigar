@@ -20,9 +20,9 @@ Currently I'm working on GitHub pages.
 
 In the past , I have worked on <ul>
 
-<li>HTML Pages</li>
-<li>CSS Pages</li>
-<li>JS</li>
+<li>HTML </li>
+<li>CSS </li>
+
 
 </ul>
 
